@@ -1,6 +1,6 @@
 from PyQt6.QtWidgets import QApplication, QMainWindow, QTableWidget, QTableWidgetItem, QDialog, QVBoxLayout, \
-    QLineEdit, QComboBox, QPushButton, QToolBar, QStatusBar, QGridLayout, QLabel, \
-    QMessageBox
+                            QLineEdit, QComboBox, QPushButton, QToolBar, QStatusBar, QGridLayout, QLabel, \
+                            QMessageBox
 from PyQt6.QtGui import QAction, QIcon
 from PyQt6.QtCore import Qt
 import sys
